@@ -6,3 +6,7 @@ Funções simples para o dia a dia
 2-Data
 
 3-AntiInjection
+
+4-Curl
+
+5-Https to Http / Http to Https
